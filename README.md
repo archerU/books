@@ -17,6 +17,8 @@
 
 - [3D数学基础图形与游戏开发](http://book.wzxsen.cn/3D%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%9B%BE%E5%BD%A2%E4%B8%8E%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91.pdf)
 
+- [两周自制脚本语言](http://book.wzxsen.cn/%E4%B8%A4%E5%91%A8%E8%87%AA%E5%88%B6%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80_PDF%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B8%8B%E8%BD%BD%20%E5%B8%A6%E4%B9%A6%E7%AD%BE%E7%9B%AE%E5%BD%95%20%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88.pdf)
+
 ## 安全
 
 - [web前端黑客技术揭秘](http://book.wzxsen.cn/web%E5%89%8D%E7%AB%AF%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)
