@@ -5,6 +5,8 @@
 
 - [计算广告](http://book.wzxsen.cn/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%20%E4%BA%92%E8%81%94%E7%BD%91%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0.pdf)
 
+- [增长黑客](https://blog-mweb.oss-cn-shanghai.aliyuncs.com/d8123cf60f53b3bfd504c58ca3077bdc.pdf?spm=5176.8466032.0.dopenurl.60c71450JENDhl&file=d8123cf60f53b3bfd504c58ca3077bdc.pdf)
+
 ## 编程
 
 - [悟透javascript](http://book.wzxsen.cn/%E6%82%9F%E9%80%8Fjavascript.pdf)
