@@ -26,7 +26,14 @@
 - [web前端黑客技术揭秘](http://book.wzxsen.cn/web%E5%89%8D%E7%AB%AF%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)
 
 
+# 北美大厂面试指南
 
+## system design
 
+- [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163/playlists)
+
+## leetcode 
+
+- [灵茶山艾府](https://github.com/EndlessCheng)
 
 
