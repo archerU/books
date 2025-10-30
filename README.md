@@ -25,6 +25,9 @@
 
 - [web前端黑客技术揭秘](http://book.wzxsen.cn/web%E5%89%8D%E7%AB%AF%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)
 
+# 逆向
+
+- [ast-hook-for-js-RE](https://github.com/JSREI/ast-hook-for-js-RE/tree/master)
 
 # web3 
 
