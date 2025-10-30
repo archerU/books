@@ -28,6 +28,7 @@
 # 逆向
 
 - [ast-hook-for-js-RE](https://github.com/JSREI/ast-hook-for-js-RE/tree/master)
+- [v_jstools chrome](https://github.com/cilame/v_jstools)
 
 # web3 
 
